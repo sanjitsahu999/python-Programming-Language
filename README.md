@@ -1,8 +1,8 @@
-# C-Programming-Language
+# python-Programming-Language
 I am learning C programming language in easy way and building nuw nuw projects everyday.
 
-C language Topics:-
-1. C language basics
+python language Topics:-
+1. python language basics
 2. Basic input & output function
 3. operator
 4. conditional statements
